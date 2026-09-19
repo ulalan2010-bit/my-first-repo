@@ -1,0 +1,13 @@
+
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.env.local
+
+# reservation_app is now its own git repository (github.com/ulalan2010-bit/reservation_app)
+/reservation_app/
